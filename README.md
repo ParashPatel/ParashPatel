@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ParashPatel
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Pythob.
+- 🌱 I’m currently learning Python.
 
 <!---
 ParashPatel/ParashPatel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
